@@ -1,6 +1,6 @@
 ## Start Up
 
-To run project run the follow in command line:
+To run project run the following in command line:
 
 ```
 npm install
